@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "name": "nazir",
+      "email": "naz@gmail.com",
+      "password": "naz123",
+      "id": 1
+    },
+    {
+      "name": "test1",
+      "email": "test1@gmail.com",
+      "password": "test1",
+      "id": 12
+    },
+    {
+      "name": "admin2",
+      "email": "admin2@gmail.com",
+      "password": "admin2",
+      "id": 13
+    },
+    {
+      "name": "admin3",
+      "email": "admin3@gmail.com",
+      "password": "admin3",
+      "id": 14
+    }
+  ],
+  "employee": [
+    {
+      "id": "1",
+      "user_id": "14",
+      "name": "Nazir",
+      "discipline": "Welder",
+      "level": "1",
+      "rating": "45",
+      "lasttraining": "15-10-2020"
+    },
+    {
+      "id": "2",
+      "user_id": "14",
+      "name": "Aditya",
+      "discipline": "Station Operator",
+      "level": "2",
+      "rating": "35",
+      "lasttraining": "15-10-2020"
+    },
+    {
+      "id": "3",
+      "user_id": "14",
+      "name": "Ajay",
+      "discipline": "Station Operator",
+      "level": "2",
+      "rating": "55",
+      "lasttraining": "15-10-2020"
+    },
+    {
+      "id": "4",
+      "user_id": "14",
+      "name": "Jaya",
+      "discipline": "Welder",
+      "level": "1",
+      "rating": "15",
+      "lasttraining": "15-10-2020"
+    }
+  ]
+}

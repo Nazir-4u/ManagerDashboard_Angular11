@@ -1,0 +1,13 @@
+footer{
+    background-color: cadetblue;
+    left: 0;
+    bottom: 0;
+    margin-top: 20px;
+    padding: 1px;
+    width: 100%;
+    position: inherit;
+}
+
+a{
+    color: #1e1e1e;
+}
